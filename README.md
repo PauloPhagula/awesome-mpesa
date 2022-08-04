@@ -8,10 +8,9 @@
 - [Libraries](#libraries)
 - [Articles](#articles)
 
-
 ## Resources
 
-- https://www.vm.co.mz/M-Pesa/Empresas/Open-API - M-Pesa Open API service Description
+- https://www.vm.co.mz/M-Pesa/Empresas/Open-API - M-Pesa Open API service description
 - https://developer.mpesa.vm.co.mz/ - M-Pesa Developer Portal
 
 ## Libraries
@@ -26,5 +25,5 @@
 
 ## Articles
 
-- [Mpesa, mais do que uma API…](https://medium.com/android-dev-moz/mpesa-mais-do-que-uma-api-bc2ead953cc2) - Article describing the integration process from account creationg all the way to production
+- [Mpesa, mais do que uma API…](https://medium.com/android-dev-moz/mpesa-mais-do-que-uma-api-bc2ead953cc2) - Article describing the integration process from account creation all the way to production
 - [Um olhar sobre a API do m-pesa](https://medium.com/android-dev-moz/um-olhar-sobre-a-api-do-m-pesa-688fd6abe351) - Article giving an highlevel overview of the API from a developers point of view
