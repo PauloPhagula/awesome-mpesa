@@ -19,6 +19,7 @@
 - [mpesa-node-api](https://github.com/thatfiredev/mpesa-node-api) - NodeJS library for M-Pesa API (mozambique Mozambique)
 - [mpesa-php-api](https://github.com/abdulmueid/mpesa-php-api) - PHP library for M-Pesa API (Mozambique)
 - [mpesa_sdk_dart](https://github.com/realrgt/mpesa_sdk_dart) - Dart | Flutter library for M-Pesa API (Mozambique)
+- [mpesa-sdk-ios](https://github.com/AlgyJr/MpesaSDK.git) - Swift | IOS library for M-Pesa API (Mozambique)
 - [mpesa-wordpress-plugin](https://github.com/herquiloidehele/mpesa-wordpress-plugin) - Vodacom M-PESA Payment Gateway for Woocommerce from Mozambique
 - [wc-mpesa-payment-gateway](https://github.com/turbohost/wc-mpesa-payment-gateway) - Vodacom M-Pesa Payment Gateway for WooCommerce
 - [paymentsds](https://github.com/paymentsds) - a suite of SDKs aiming to help businesses integrating M-Pesa operations into their applications.
