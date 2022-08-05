@@ -22,6 +22,7 @@
 - [mpesa-sdk-ios](https://github.com/AlgyJr/MpesaSDK.git) - Swift | IOS library for M-Pesa API (Mozambique)
 - [mpesa-wordpress-plugin](https://github.com/herquiloidehele/mpesa-wordpress-plugin) - Vodacom M-PESA Payment Gateway for Woocommerce from Mozambique
 - [wc-mpesa-payment-gateway](https://github.com/turbohost/wc-mpesa-payment-gateway) - Vodacom M-Pesa Payment Gateway for WooCommerce
+- [karson/mpesa-php-sdk](https://github.com/karson/mpesa-php-sdk) - A PHP SDK for the new Vodacom Mpesa RESTful APIs mozambique
 - [paymentsds](https://github.com/paymentsds) - a suite of SDKs aiming to help businesses integrating M-Pesa operations into their applications.
 
 ## Articles
