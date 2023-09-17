@@ -13,7 +13,7 @@
 
 - https://www.vm.co.mz/M-Pesa/Empresas/Open-API - M-Pesa Open API service description
 - https://developer.mpesa.vm.co.mz/ - M-Pesa Developer Portal
-- [API Access Cequirements and Checklist](https://github.com/PauloPhagula/awesome-mpesa/files/12642465/Checklist.para.Pessoas.Colectivas.-.V1.5.pdf)
+- [Production API Access requirements and Checklist](https://github.com/PauloPhagula/awesome-mpesa/files/12642465/Checklist.para.Pessoas.Colectivas.-.V1.5.pdf)
 
 ## Libraries
 
