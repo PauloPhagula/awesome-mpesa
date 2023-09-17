@@ -34,3 +34,7 @@
 ## Videos
 
 - [Implementar Mpesa em Android(Dario Mungoi mpesaSDK)](https://www.youtube.com/watch?v=RtY67lsb5TY)
+
+## Regulation
+
+- [Lei das Transacções Eletrónicas ](https://github.com/PauloPhagula/awesome-mpesa/files/12642436/Lei-das-Transaccoes-eletronicas.pdf)
