@@ -8,6 +8,7 @@
 - [Libraries](#libraries)
 - [Articles](#articles)
 - [Videos](#videos)
+- [Regulation](#regulation)
 
 ## Resources
 
