@@ -1,6 +1,6 @@
 # Awesome M-Pesa [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list of articles, libraries, and resources related to M-Pesa.
+> A curated list of articles, libraries, and resources related to the M-Pesa Open API in Mozambique.
 
 ## Contents
 
