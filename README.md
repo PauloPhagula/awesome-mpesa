@@ -27,6 +27,7 @@
 - [wc-mpesa-payment-gateway](https://github.com/turbohost/wc-mpesa-payment-gateway) - Vodacom M-Pesa Payment Gateway for WooCommerce
 - [karson/mpesa-php-sdk](https://github.com/karson/mpesa-php-sdk) - A PHP SDK for the new Vodacom Mpesa RESTful APIs mozambique
 - [paymentsds](https://github.com/paymentsds) - a suite of SDKs aiming to help businesses integrating M-Pesa operations into their applications.
+- [MPesa Rust SDK](https://github.com/GraHms/mpesa-rust-sdk) - A Rust library to interact with the MPesa API, simplifying B2C payment integrations and more.
 
 ## Articles
 
