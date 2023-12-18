@@ -9,6 +9,7 @@
 - [Articles](#articles)
 - [Videos](#videos)
 - [Regulation](#regulation)
+- [Sample Request E-mail](#sample-request-email)
 
 ## Resources
 
@@ -41,3 +42,17 @@
 ## Regulation
 
 - [Lei das Transacções Eletrónicas ](https://github.com/PauloPhagula/awesome-mpesa/files/12642436/Lei-das-Transaccoes-eletronicas.pdf)
+
+## Sample Request E-mail
+To: M-Pesa.business@vm.co.mz
+Subject: Access to Open API
+From: Business Holder
+Body: 
+Greetings M-Pesa team, 
+
+I trust this email finds you well. My name is [Your Name], and I am reaching out as a business holder to formally request access to the Open API.
+Attached herewith, you will find all the necessary documents specified in the provided Checklist. I have ensured that all required information is accurately included for your review.
+I look forward to receiving further instructions on the next steps in the process.
+Thank you for your prompt attention to this matter.
+
+Regards
