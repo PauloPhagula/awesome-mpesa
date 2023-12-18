@@ -44,10 +44,10 @@
 - [Lei das Transacções Eletrónicas ](https://github.com/PauloPhagula/awesome-mpesa/files/12642436/Lei-das-Transaccoes-eletronicas.pdf)
 
 ## Sample Request E-mail
-To: M-Pesa.business@vm.co.mz
-Subject: Access to Open API
-From: Business Holder
-Body: 
+To: M-Pesa.business@vm.co.mz  
+Subject: Access to Open API  
+From: Business Holder  
+Body:   
 Greetings M-Pesa team, 
 
 I trust this email finds you well. My name is [Your Name], and I am reaching out as a business holder to formally request access to the Open API.
