@@ -34,6 +34,7 @@
 
 - [Mpesa, mais do que uma API…](https://medium.com/android-dev-moz/mpesa-mais-do-que-uma-api-bc2ead953cc2) - Article describing the integration process from account creation all the way to production
 - [Um olhar sobre a API do m-pesa](https://medium.com/android-dev-moz/um-olhar-sobre-a-api-do-m-pesa-688fd6abe351) - Article giving an highlevel overview of the API from a developers point of view
+- [Decreto 59/2023 - destaques & implicações](https://www.linkedin.com/pulse/decreto-592023-destaques-implica%2525C3%2525A7%2525C3%2525B5es-m%2525C3%2525A1rio-j%2525C3%2525BAnior-snpzf%3FtrackingId=tVAdOsDNxQFQ8YzQMotn4w%253D%253D/?trackingId=tVAdOsDNxQFQ8YzQMotn4w%3D%3D)
 
 ## Videos
 
@@ -42,6 +43,7 @@
 ## Regulation
 
 - [Lei das Transacções Eletrónicas ](https://github.com/PauloPhagula/awesome-mpesa/files/12642436/Lei-das-Transaccoes-eletronicas.pdf)
+- [Regulamento de Registo e Licenciamento BR_206_I_SERIE_2023](https://github.com/PauloPhagula/awesome-mpesa/files/14340618/Regulamento.de.Registo.e.Licenciamento.BR_206_I_SERIE_2023.pdf)
 
 ## Sample Request E-mail
 To: M-Pesa.business@vm.co.mz  
