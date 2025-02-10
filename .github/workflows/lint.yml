@@ -1,0 +1,11 @@
+name: Lint Awesome List
+on: [push, pull_request]
+jobs:
+  lint:
+    name: Awesome Lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.0.0
+        with:
+          fetch-depth: 0
+      - run: npx awesome-lint
