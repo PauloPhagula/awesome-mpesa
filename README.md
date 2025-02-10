@@ -13,7 +13,7 @@
 
 ## Recursos
 
-- https://www.vm.co.mz/M-Pesa/Empresas/Open-API - Descrição do serviço da API Aberta do M-Pesa
+- https://www.vm.co.mz/M-Pesa/Empresas/Open-API - Descrição do serviço da Open API do M-Pesa
 - https://developer.mpesa.vm.co.mz/ - Portal do Desenvolvedor M-Pesa
 - [Requisitos de Acesso à API de Produção e Checklist](https://github.com/PauloPhagula/awesome-mpesa/files/13706274/Checklist.para.Pessoas.Colectivas.-.Versao.1.7.-.2022.pdf)
 
@@ -27,7 +27,7 @@
 - [mpesa-wordpress-plugin](https://github.com/herquiloidehele/mpesa-wordpress-plugin) - Plugin de pagamento Vodacom M-PESA para WooCommerce em Moçambique.
 - [wc-mpesa-payment-gateway](https://github.com/turbohost/wc-mpesa-payment-gateway) - Gateway de Pagamento Vodacom M-Pesa para WooCommerce.
 - [karson/mpesa-php-sdk](https://github.com/karson/mpesa-php-sdk) - Um SDK PHP para as novas APIs RESTful do Vodacom M-Pesa em Moçambique.
-- [paymentsds](https://github.com/paymentsds) - Um conjunto de SDKs projetados para ajudar empresas a integrar operações do M-Pesa em seus aplicativos.
+- [paymentsds](https://github.com/paymentsds) - Um conjunto de SDKs projectados para ajudar empresas a integrar operações do M-Pesa em seus aplicativos.
 - [mpesa-sdk-rust](https://github.com/GraHms/mpesa-rust-sdk) - Biblioteca Rust para interagir com a API do M-Pesa, simplificando integrações de pagamento B2C e mais.
 
 ## Artigos
@@ -48,14 +48,14 @@
 ## Exemplo de E-mail de Solicitação
 
 Para: M-Pesa.business@vm.co.mz  
-Assunto: Acesso à API Aberta para [Nome da Empresa]  
+Assunto: Acesso à Open API para [Nome da Empresa]  
 De: Responsável pelo Negócio  
 Corpo:
 
 ```txt
 Saudações, equipe M-Pesa,
 
-Espero que este e-mail os encontre bem. Meu nome é [Seu Nome] e estou entrando em contato como responsável pelo negócio para solicitar formalmente o acesso à API Aberta.
+Espero que este e-mail os encontre bem. Meu nome é [Seu Nome] e estou entrando em contato como responsável pelo negócio para solicitar formalmente o acesso à Open API.
 Em anexo, envio todos os documentos necessários especificados no Checklist fornecido. Certifiquei-me de incluir todas as informações exigidas para sua análise.
 Aguardo instruções sobre os próximos passos do processo.
 Obrigado pela atenção e retorno rápido.
