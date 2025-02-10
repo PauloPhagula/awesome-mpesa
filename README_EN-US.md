@@ -42,15 +42,17 @@
 
 ## Regulation
 
-- [Lei das Transacções Eletrónicas ](https://github.com/PauloPhagula/awesome-mpesa/files/12642436/Lei-das-Transaccoes-eletronicas.pdf)
+- [Lei das Transacções Eletrónicas](https://github.com/PauloPhagula/awesome-mpesa/files/12642436/Lei-das-Transaccoes-eletronicas.pdf)
 - [Regulamento de Registo e Licenciamento BR_206_I_SERIE_2023](https://github.com/PauloPhagula/awesome-mpesa/files/14340618/Regulamento.de.Registo.e.Licenciamento.BR_206_I_SERIE_2023.pdf)
 
 ## Sample Request E-mail
+
 To: M-Pesa.business@vm.co.mz  
 Subject: Access to Open API to [Company name]  
 From: Business Holder  
-Body:   
-```
+Body:
+
+```txt
 Greetings M-Pesa team, 
 
 I trust this email finds you well. My name is [Your Name], and I am reaching out as a business holder to formally request access to the Open API.
