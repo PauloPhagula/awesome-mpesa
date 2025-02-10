@@ -1,6 +1,6 @@
 # Awesome M-Pesa [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> Uma lista curada de artigos, bibliotecas e recursos relacionados à API Aberta do M-Pesa em Moçambique.
+> Uma seleção de artigos, bibliotecas e recursos úteis sobre a Open API do M-Pesa em Moçambique.
 
 ## Conteúdo
 
