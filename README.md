@@ -13,7 +13,7 @@
 
 ## Recursos
 
-- https://www.vm.co.mz/M-Pesa/Empresas/Open-API - Descrição do serviço da Open API do M-Pesa
+- https://www.vm.co.mz/m-pesa/artigo/api-aberta-do-m-pesa - Descrição do serviço da Open API do M-Pesa
 - https://developer.mpesa.vm.co.mz/ - Portal do Desenvolvedor M-Pesa
 - [Requisitos de Acesso à API de Produção e Checklist](https://github.com/PauloPhagula/awesome-mpesa/files/13706274/Checklist.para.Pessoas.Colectivas.-.Versao.1.7.-.2022.pdf)
 
