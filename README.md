@@ -20,7 +20,7 @@
 ## Bibliotecas
 
 - [mpesasdk](https://github.com/realdm/mpesasdk) - SDK não oficial com o objetivo de facilitar a integração com a API de pagamentos da Vodacom Moçambique em aplicativos Android.
-- [mpesa-node-api](https://github.com/thatfiredev/mpesa-node-api) - Biblioteca NodeJS para a API do M-Pesa (Moçambique).
+- [mpesa-node-api](https://github.com/thatfiredev/mpesa-node-api) - Biblioteca Node.js para a API do M-Pesa (Moçambique).
 - [mpesa-php-api](https://github.com/abdulmueid/mpesa-php-api) - Biblioteca PHP para a API do M-Pesa (Moçambique).
 - [mpesa_sdk_dart](https://github.com/realrgt/mpesa_sdk_dart) - Biblioteca Dart | Flutter para a API do M-Pesa (Moçambique).
 - [mpesa-sdk-ios](https://github.com/AlgyJr/MpesaSDK.git) - Biblioteca Swift | iOS para a API do M-Pesa (Moçambique).
@@ -38,12 +38,12 @@
 
 ## Vídeos
 
-- [Implementar Mpesa em Android (Dario Mungoi mpesaSDK)](https://www.youtube.com/watch?v=RtY67lsb5TY)
+- [Implementar Mpesa em Android (Dario Mungoi mpesaSDK)](https://www.youtube.com/watch?v=RtY67lsb5TY).
 
 ## Regulamentação
 
-- [Lei das Transações Eletrônicas](https://github.com/PauloPhagula/awesome-mpesa/files/12642436/Lei-das-Transaccoes-eletronicas.pdf)
-- [Regulamento de Registro e Licenciamento BR_206_I_SERIE_2023](https://github.com/PauloPhagula/awesome-mpesa/files/14340618/Regulamento.de.Registo.e.Licenciamento.BR_206_I_SERIE_2023.pdf)
+- [Lei das Transações Eletrônicas](https://github.com/PauloPhagula/awesome-mpesa/files/12642436/Lei-das-Transaccoes-eletronicas.pdf).
+- [Regulamento de Registro e Licenciamento BR_206_I_SERIE_2023](https://github.com/PauloPhagula/awesome-mpesa/files/14340618/Regulamento.de.Registo.e.Licenciamento.BR_206_I_SERIE_2023.pdf).
 
 ## Exemplo de E-mail de Solicitação
 
