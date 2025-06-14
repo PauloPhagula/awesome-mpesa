@@ -48,14 +48,14 @@
 ## Exemplo de E-mail de Solicitação
 
 Para: M-Pesa.business@vm.co.mz  
-Assunto: Acesso à Open API para [Nome da Empresa]  
+Assunto: Acesso à Open API para {Nome da Empresa}
 De: Responsável pelo Negócio  
 Corpo:
 
 ```txt
 Saudações, equipe M-Pesa,
 
-Espero que este e-mail os encontre bem. Meu nome é [Seu Nome] e estou entrando em contato como responsável pelo negócio para solicitar formalmente o acesso à Open API.
+Espero que este e-mail os encontre bem. Meu nome é {Seu Nome} e estou entrando em contato como responsável pelo negócio para solicitar formalmente o acesso à Open API.
 Em anexo, envio todos os documentos necessários especificados no Checklist fornecido. Certifiquei-me de incluir todas as informações exigidas para sua análise.
 Aguardo instruções sobre os próximos passos do processo.
 Obrigado pela atenção e retorno rápido.

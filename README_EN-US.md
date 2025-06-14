@@ -48,14 +48,14 @@
 ## Sample Request E-mail
 
 To: M-Pesa.business@vm.co.mz  
-Subject: Access to Open API to [Company name]  
+Subject: Access to Open API to {Company name}  
 From: Business Holder  
 Body:
 
 ```txt
 Greetings M-Pesa team, 
 
-I trust this email finds you well. My name is [Your Name], and I am reaching out as a business holder to formally request access to the Open API.
+I trust this email finds you well. My name is {Your Name}, and I am reaching out as a business holder to formally request access to the Open API.
 Attached herewith, you will find all the necessary documents specified in the provided Checklist. I have ensured that all required information is accurately included for your review.
 I look forward to receiving further instructions on the next steps in the process.
 Thank you for your prompt attention to this matter.
