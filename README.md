@@ -7,11 +7,6 @@
 - [O que é a Open API do M-Pesa?](#o-que-é-a-open-api-do-m-pesa)
 - [Como posso integrar?](#como-posso-integrar)
 - [Processo](#processo)
-  - [1. Ambiente de Desenvolvimento](#1-ambiente-de-desenvolvimento)
-  - [2. Solicitação de Acesso à Produção](#2-solicitação-de-acesso-à-produção)
-  - [3. Acordo e Treinamento](#3-acordo-e-treinamento)
-  - [4. Integração em Produção](#4-integração-em-produção)
-  - [5. Operação Comercial](#5-operação-comercial)
 - [Recursos](#recursos)
 - [Bibliotecas](#bibliotecas)
 - [Artigos](#artigos)
@@ -30,7 +25,7 @@ O objetivo principal da Open API é permitir que empresas, desenvolvedores e ins
 
 - Colecta de pagamentos (cobrança)
 - Envio de fundos para clientes ou fornecedores
-- Consultas de saldo e transações
+- Consultas de transações
 - Estornos (reversões) de pagamentos
 - Validação de contas
 
