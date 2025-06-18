@@ -4,6 +4,9 @@
 
 ## Conteúdo {#contents}
 
+- [O que é a Open API do M-Pesa?](#what)
+- [Como posso integrar?](#how)
+- [Processo](#processo)
 - [Recursos](#recursos)
 - [Bibliotecas](#bibliotecas)
 - [Artigos](#artigos)
@@ -11,6 +14,63 @@
 - [Regulamentação](#regulamentação)
 - [Exemplo de E-mail de Solicitação](#exemplo-de-e-mail-de-solicitação)
 - [Como contribuir](#contributing)
+
+## O que é a Open API do M-Pesa? {#what}
+
+A Open API do M-Pesa é um conjunto de interfaces programáveis (APIs)
+disponibilizadas pela Vodacom Moçambique que permite a integração de **aplicações**,
+sistemas ou plataformas com os serviços financeiros digitais do M-Pesa.
+
+O objetivo principal da Open API é permitir que empresas, desenvolvedores e instituições automatizem operações financeiras, como:
+
+- Colecta de pagamentos (cobrança)
+- Envio de fundos para clientes ou fornecedores
+- Consultas de saldo e transações
+- Estornos (reversões) de pagamentos
+- Validação de contas
+
+## Como posso integrar? {#how}
+
+A integração pode ser feita de dois modos:
+
+1. Directo, onde o desenvolvedor faz a intelergicação diretamente com a API do M-Pesa, utilizando as credenciais fornecidas pela Vodacom Moçambique.
+2. Usando um agregador, que é uma empresa ou serviço que já possui integração com a API do M-Pesa e oferece uma interface simplificada para desenvolvedores.
+
+O processo para a integração directa está descrito abaixo na secção [Processo](#processo).
+
+## Processo
+
+Em linhas gerais o processo de integração com a API Publica do M-Pesa envolve as seguintes etapas principais:
+
+1. Criação de Conta e Integração no Ambiente de Desenvolvimento
+
+  A primeira etapa consiste em criar uma conta no portal de desenvolvedores do M-Pesa, disponível em: https://developer.mpesa.vm.co.mz.
+  Após o registo, será possível integrar o seu sistema ao ambiente de desenvolvimento, onde poderá testar todas as operações suportadas (cobrança, estorno, consulta, etc.).
+  Neste ambiente, também terá acesso às API keys necessárias para a configuração e testes iniciais.
+
+2. Validação e Pedido de Acesso ao Ambiente de Produção
+
+  Assim que os testes forem concluídos com sucesso, deverá contactar a equipa do M-Pesa através do email: M-Pesa.business@vm.co.mz solicitando a migração para o ambiente de produção.
+  Neste ponto, será necessário cumprir com determinados requisitos legais, que variam conforme o tipo de entidade (pessoa singular, empresa, organização, etc.).
+  Os detalhes estão disponíveis no ficheiro de requisitos legais fornecido na secção de [recursos](#recursos).
+
+3. Formalização do Acordo e Treinamento
+
+  Em colaboração com a equipa do M-Pesa, deverá:
+
+    - Enviar a documentação exigida;
+    - Negociar as comissões aplicáveis;
+    - Assinar o contrato de prestação de serviços;
+    - Proceder à abertura de uma conta empresa no M-Pesa;
+    - Participar numa formação sobre a gestão da conta e utilização do sistema, incluindo: gestão de utilizadores, reversões de transações, análise de relatórios, entre outros aspetos operacionais do backoffice.
+
+4. Integração no Ambiente de Produção
+
+Após a conclusão das etapas anteriores, será fornecido o acesso às *API keys* do ambiente de produção. Com estas credenciais, poderá configurar o seu sistema para iniciar as operações reais.
+
+5. Início das Operações Comerciais
+
+Com a integração finalizada e os acessos configurados, poderá começar a explorar e operar com a plataforma de pagamentos M-Pesa de forma plena.
 
 ## Recursos
 
