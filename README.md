@@ -2,20 +2,25 @@
 
 > Uma seleção de artigos, bibliotecas e recursos úteis sobre a Open API do M-Pesa em Moçambique.
 
-## Conteúdo {#contents}
+## Conteúdo
 
-- [O que é a Open API do M-Pesa?](#what)
-- [Como posso integrar?](#how)
+- [O que é a Open API do M-Pesa?](#o-que-é-a-open-api-do-m-pesa)
+- [Como posso integrar?](#como-posso-integrar)
 - [Processo](#processo)
+  - [1. Ambiente de Desenvolvimento](#1-ambiente-de-desenvolvimento)
+  - [2. Solicitação de Acesso à Produção](#2-solicitação-de-acesso-à-produção)
+  - [3. Acordo e Treinamento](#3-acordo-e-treinamento)
+  - [4. Integração em Produção](#4-integração-em-produção)
+  - [5. Operação Comercial](#5-operação-comercial)
 - [Recursos](#recursos)
 - [Bibliotecas](#bibliotecas)
 - [Artigos](#artigos)
 - [Vídeos](#vídeos)
 - [Regulamentação](#regulamentação)
 - [Exemplo de E-mail de Solicitação](#exemplo-de-e-mail-de-solicitação)
-- [Como contribuir](#contributing)
+- [Como contribuir](#como-contribuir)
 
-## O que é a Open API do M-Pesa? {#what}
+## O que é a Open API do M-Pesa?
 
 A Open API do M-Pesa é um conjunto de interfaces programáveis (APIs)
 disponibilizadas pela Vodacom Moçambique que permite a integração de **aplicações**,
@@ -29,7 +34,7 @@ O objetivo principal da Open API é permitir que empresas, desenvolvedores e ins
 - Estornos (reversões) de pagamentos
 - Validação de contas
 
-## Como posso integrar? {#how}
+## Como posso integrar?
 
 A integração pode ser feita de dois modos:
 
@@ -124,6 +129,6 @@ Obrigado pela atenção e retorno rápido.
 Atenciosamente,
 ```
 
-## Como contribuir {#contributing}
+## Como contribuir
 
 Por favor, leia o [guia de contribuição](contributing.md).
